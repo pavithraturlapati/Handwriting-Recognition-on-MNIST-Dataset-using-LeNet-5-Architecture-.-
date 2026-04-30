@@ -36,7 +36,6 @@ This project implements an enhanced LeNet-5 CNN architecture for handwritten dig
 - **Test Accuracy: 99.65%**
 - Only 35 misclassifications out of 10,000 test images
 - Macro-averaged F1-score: 1.00
-- Surpassed 98% target at Epoch 1
 
 ## Ablation Study
 Removing BatchNorm dropped accuracy from 99.67% → 99.65%, confirming BatchNorm's contribution to faster early convergence.
