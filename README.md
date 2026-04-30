@@ -4,6 +4,9 @@
 This project implements an enhanced LeNet-5 CNN architecture for handwritten digit recognition on the MNIST dataset using PyTorch. The model achieves **99.65% test accuracy**.
 
 ## Architecture
+
+<img width="945" height="516" alt="image" src="https://github.com/user-attachments/assets/59f8b068-c73f-4055-8299-5cbb62db991e" />
+
 - 3 Convolutional blocks with filters: 32 → 64 → 128
 - BatchNorm2d after each conv layer
 - MaxPooling (2×2)
